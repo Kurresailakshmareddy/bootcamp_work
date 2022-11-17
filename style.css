@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(54, 50, 50);
+    color: white;
+}
+
+.bio {
+    width:100%;
+    height: 120pv;
+    text-align: center;
+    color: blue;
+    background-color: brown;
+
+}
+
+footer {
+
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(54, 50, 50);
+    color: white;
+    line-height: 25px;
+}
+
+footer ul li {
+    text-decoration: none;
+}
